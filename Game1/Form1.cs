@@ -93,7 +93,7 @@ namespace Game1
                     lblQuestions.Text = "What is the above object";
 
                     button1.Text = "Tafel";
-                    button2.Text = "Stool";
+                    button2.Text = "Stoel";
                     button3.Text = "Bed";
                     button4.Text = "kooi";
 
@@ -107,7 +107,7 @@ namespace Game1
                     lblQuestions.Text = "What is the above object";
 
                     button1.Text = "Kooi";
-                    button2.Text = "Stool";
+                    button2.Text = "Stoel";
                     button3.Text = "Floor";
                     button4.Text = "Venster";
 
@@ -122,7 +122,7 @@ namespace Game1
 
                     button1.Text = "klok";
                     button2.Text = "Cloc";
-                    button3.Text = "clock";
+                    button3.Text = "Clock";
                     button4.Text = "klock";
 
                     correctAnswer = 1;
@@ -149,7 +149,7 @@ namespace Game1
                     lblQuestions.Text = "What is the above object";
 
                     button1.Text = "Stoof";
-                    button2.Text = "Stool";
+                    button2.Text = "Stoel";
                     button3.Text = "Ketel";
                     button4.Text = "Mundjie";
 

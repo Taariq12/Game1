@@ -66,7 +66,7 @@ namespace Game1
                     button3.Text = "Die kind huil";
                     button4.Text = "Die meisie lag";
 
-                    correctAnswer = 1;
+                    correctAnswer = 2;
 
                     break;
 
@@ -133,8 +133,8 @@ namespace Game1
 
                     button1.Text = "Die hond le";
                     button2.Text = "Die kat le";
-                    button3.Text = "Die dra le";
-                    button4.Text = "Die bear le";
+                    button3.Text = "Die beer le";
+                    button4.Text = "Die dra le";
 
                     correctAnswer = 3;
 

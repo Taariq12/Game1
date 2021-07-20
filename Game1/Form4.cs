@@ -96,7 +96,7 @@ namespace Game1
                     lblQuestions.Text = "What is the picture above";
 
                     button1.Text = "dertig en vyf";
-                    button2.Text = "drie end seve";
+                    button2.Text = "drie en seve";
                     button3.Text = "vyf en dertag";
                     button4.Text = "Thirty five";
 

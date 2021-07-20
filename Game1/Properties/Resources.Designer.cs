@@ -63,6 +63,16 @@ namespace Game1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _102418_375x276r1_Chalkboardcleaningtips {
+            get {
+                object obj = ResourceManager.GetObject("102418-375x276r1-Chalkboardcleaningtips", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap basket {
             get {
                 object obj = ResourceManager.GetObject("basket", resourceCulture);
@@ -76,6 +86,36 @@ namespace Game1.Properties {
         internal static System.Drawing.Bitmap bed {
             get {
                 object obj = ResourceManager.GetObject("bed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bg1 {
+            get {
+                object obj = ResourceManager.GetObject("Bg1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bg2 {
+            get {
+                object obj = ResourceManager.GetObject("Bg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Bg3 {
+            get {
+                object obj = ResourceManager.GetObject("Bg3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
